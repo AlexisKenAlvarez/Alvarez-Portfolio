@@ -857,7 +857,7 @@ a {
   .flying_axie {
     position: absolute;
     transform: rotateY(180deg) scale(2);
-    right: -25%;
+    right: -35%;
     bottom: 40%;
     z-index: 1;
   }
